@@ -1,0 +1,13 @@
+h1 {
+    color: #6c757d!important;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+}
+
+.row {
+    background-color: #eee;
+}
